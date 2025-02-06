@@ -74,24 +74,33 @@ I am a Quality Assurance professional with 3.5 years of experience in manual and
 
 ---
 
-## Projects, Certifications & Other Experience
+## Projects
 
-**Projects**  
+- **SwagLabs (2025)**  
+  Implementation of automation testing using Playwright & JavaScript for the SwagLabs application.  
+  Repository: [https://github.com/Nikenarra0816/SwagLabs](https://github.com/Nikenarra0816/SwagLabs)
+
 - **Bootcamp Automation Cypress Sanbercode (2024)**  
   Automation test using Cypress frameworks.  
-  Repository: [https://github.com/Nikenarra0816/OrangeHRM-Bootcamp](https://github.com/Nikenarra0816/OrangeHRM-Bootcamp)
+  Repository: [https://github.com/Nikenarra0816/OrangeHRM](https://github.com/Nikenarra0816/OrangeHRM)
 
 - **Project TA (2023)**  
   Implementation of automation testing using BDD for the GA System 2 application at United Tractors using Katalon Studio.  
-  Repository: [https://github.com/Nikenarra0816/Automation_testing_with_BDD](https://github.com/Nikenarra0816/Automation_testing_with_BDD)
+  Repository: [https://github.com/Nikenarra0816/GA-System-2-United-Tractors](https://github.com/Nikenarra0816/GA-System-2-United-Tractors)
 
 - **Learn Automation API Project (2022)**  
   Development of automation tests for API using various tools and frameworks.  
   Repository: [https://github.com/Nikenarra0816/automation-api](https://github.com/Nikenarra0816/automation-api)
 
-**Certifications**  
+---
+
+## Certifications
+
+- **Sanbercode QA Certification (2024)**  
+  [View Certificate](https://www.linkedin.com/in/nikenarra/overlay/1733570328475/single-media-viewer/?profileId=ACoAADAC3LABScQCrlmvQ-FKjc55fX3Nb1fo1Sk)
+
 - **HackerRank Problem Solving Basic Certification (2021)**  
-  Earned certification for basic problem-solving skills on HackerRank platform.  
+  Earned certification for basic problem-solving skills on the HackerRank platform.  
   Certificate: [HackerRank Certificate](https://www.hackerrank.com/certificates/78868b8f5729)
 
 - **Test Automation University Certification (2021)**  
